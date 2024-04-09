@@ -2,7 +2,6 @@
 //  CollageBuilderView.swift
 //  CollageBuilder
 //
-//
 
 import SwiftUI
 
